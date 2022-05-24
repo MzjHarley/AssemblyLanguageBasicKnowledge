@@ -1,5 +1,5 @@
 ### [1 基础知识](https://github.com/MzjHarley/AssemblyLanguageBasicKnowledge/blob/main/%E6%B1%87%E7%BC%96%E5%8E%9F%E7%90%86%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md)
-### [2 寄存器](https://github.com/MzjHarley/AssemblyLanguageBasicKnowledge/blob/main/%E6%B1%87%E7%BC%96%E8%AF%AD%E8%A8%80%E4%B9%8B%E5%AF%84%E5%AD%98%E5%99%A8.md))
+### [2 寄存器](https://github.com/MzjHarley/AssemblyLanguageBasicKnowledge/blob/main/%E6%B1%87%E7%BC%96%E8%AF%AD%E8%A8%80%E4%B9%8B%E5%AF%84%E5%AD%98%E5%99%A8.md)
 ### [3 第一个程序](https://github.com/MzjHarley/AssemblyLanguageBasicKnowledge/blob/main/%E6%B1%87%E7%BC%96%E8%AF%AD%E8%A8%80%E4%B9%8B%E7%AC%AC%E4%B8%80%E4%B8%AA%E7%A8%8B%E5%BA%8F.md)
 
 ### [4 [BX]和loop指令](https://github.com/MzjHarley/AssemblyLanguageBasicKnowledge/blob/main/%E6%B1%87%E7%BC%96%E8%AF%AD%E8%A8%80%E4%B9%8B-BX-%E5%92%8CLOOP%E6%8C%87%E4%BB%A4.md)
