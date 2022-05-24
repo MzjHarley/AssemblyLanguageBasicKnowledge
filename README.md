@@ -1,5 +1,4 @@
-### 1 基础知识  
-[基础知识](http://www.cnblogs.com/sxdcgaq8080/p/7894828.html)
+### 1 [基础知识](https://github.com/MzjHarley/AssemblyLanguageBasicKnowledge/blob/main/%E6%B1%87%E7%BC%96%E5%8E%9F%E7%90%86%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md)
 ### 2 寄存器 
 
 ### 3 第一个程序 
