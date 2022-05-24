@@ -1,5 +1,5 @@
 ### 1 基础知识  
-[link]: http://www.google.com/ "基础知识"
+[基础知识](http://www.cnblogs.com/sxdcgaq8080/p/7894828.html)
 ### 2 寄存器 
 
 ### 3 第一个程序 
